@@ -10,7 +10,7 @@
 
 Hello there👋! I'm **Sherry Obuhuma!**
 
-- 💻 I'm a System Administrator transitioning into Cloud Automation and DevOps Engineering
+- 💻 A System Administrator transitioning into Cloud Automation and DevOps Engineering
 - 🌍 Based in Kenya | Open to remote roles
 - 💡 Passionate about automation, infrastructure as code, and   cloud-native technologies 
 
@@ -34,10 +34,9 @@ Hello there👋! I'm **Sherry Obuhuma!**
 ---
 
 ## 📫 How to Reach Me
-[![Gmail](https://img.shields.io/badge/Gmail-Email-red?logo=gmail)](mailto:andesosherry@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/sherryobuhuma/)
 
 ---
 
-## 💡 Fun Facts
+## ⭐️ Fun Facts
 - 💐 I love good fragrances!
