@@ -1,7 +1,7 @@
 # Sherry Obuhuma
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=2000&color=00D9FF&center=true&vCenter=true&width=940&lines=Cloud+Automation+%26+DevOps+Engineer;System+Administrator+transitioning+into+CloudOps" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=2000&color=00D9FF&center=true&vCenter=true&width=940&lines=Cloud+Automation+%26+DevOps+Engineer;System+Administrator" alt="Typing SVG" />
 </div>
 
 ## 👩🏽‍💻 About Me
@@ -10,7 +10,7 @@
 
 Hello there👋! I'm **Sherry Obuhuma!**
 
-- 💻 A System Administrator transitioning into Cloud Automation and DevOps Engineering
+- 💻 A System Administrator | DevOps & Cloud Engineer
 - 🌍 Based in Kenya | Open to remote roles
 - 💡 Passionate about automation, infrastructure as code, and   cloud-native technologies 
 
