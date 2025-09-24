@@ -10,7 +10,7 @@
 
 Hello there👋! I'm **Sherry Obuhuma!**
 
-- 💻 A System Administrator | DevOps & Cloud Engineer
+- 💻 A Woman In Tech with specialization in DevOps & Cloud
 - 🌍 Based in Kenya | Open to remote roles
 - 💡 Passionate about automation, infrastructure as code, and   cloud-native technologies 
 
