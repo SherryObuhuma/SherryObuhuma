@@ -8,11 +8,11 @@
 
 <img align="right" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300"/>
 
-Hello there👋! I'm **Sherry Obuhuma!**
+Hello there👋! I'm **Sherry!**
 
-- 💻 A Woman In Tech with specialization in DevOps & Cloud
-- 🌍 Based in Kenya | Open to remote roles
-- 💡 Passionate about automation, infrastructure as code, and   cloud-native technologies 
+- 💻 Woman In Tech specializing in DevOps & Cloud Engineering
+- 🌍 Based in Kenya | Open to remote and hybrid opportunities
+- 💡 Passionate about automation, Infrastructure as Code (IaC), and cloud-native technologies 
 
 ---
 
@@ -39,4 +39,4 @@ Hello there👋! I'm **Sherry Obuhuma!**
 ---
 
 ## ⭐️ Fun Facts
-- 💐 I love good fragrances!
+- 💐 I love good fragrances! — they keep my workspace calm and creative.
