@@ -37,6 +37,3 @@ Hello there👋! I'm **Sherry!**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/sherryobuhuma/)
 
 ---
-
-## ⭐️ Fun Facts
-- 💐 I love good fragrances! — they keep my workspace calm and creative.
