@@ -1,7 +1,7 @@
 # Sherry Obuhuma
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=2000&color=00D9FF&center=true&vCenter=true&width=940&lines=Cloud+Automation+%26+DevOps+Engineer;System+Administrator" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=2000&color=00D9FF&center=true&vCenter=true&width=940&lines=DevOps+Engineer;System+Administrator" alt="Typing SVG" />
 </div>
 
 ## 👩🏽‍💻 About Me
