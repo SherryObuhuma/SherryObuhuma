@@ -1,16 +1,16 @@
 ## 👋Hello! I am Sherry Obuhuma
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=2000&color=00D9FF&center=true&vCenter=true&width=940&lines=DevOps+Engineer;System+Administrator" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=2000&color=00D9FF&center=true&vCenter=true&width=940&lines=DevOps+Engineer;Cloud+Engineer;System+Administrator" alt="Typing SVG" />
 </div>
 
 ### About Me
 
 <img align="right" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300"/>
 
-- 💻 Woman In Tech specializing in DevOps & Cloud Engineering
-- 🌍 Based in Kenya | Open to remote and hybrid opportunities
-- 💡 Passionate about automation, Infrastructure as Code (IaC), and cloud-native technologies 
+- Based in Kenya | Open to remote & hybrid opportunities
+- Passionate about automation, Infrastructure as Code (IaC), and cloud-native technologies
+- Am actively upskilling so as to stay relevant in this dynamic tech industry!
 
 ---
 
@@ -22,7 +22,6 @@
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Microsoft 365](https://img.shields.io/badge/Microsoft365-D83B01?style=for-the-badge&logo=microsoft&logoColor=white)
 ![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-012456?style=for-the-badge&logo=powershell&logoColor=white)
