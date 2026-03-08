@@ -1,14 +1,12 @@
-# Sherry Obuhuma
+## 👋Hello! I am Sherry Obuhuma
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=2000&color=00D9FF&center=true&vCenter=true&width=940&lines=DevOps+Engineer;System+Administrator" alt="Typing SVG" />
 </div>
 
-## 👩🏽‍💻 About Me
+### About Me
 
 <img align="right" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300"/>
-
-Hello there👋! I'm **Sherry!**
 
 - 💻 Woman In Tech specializing in DevOps & Cloud Engineering
 - 🌍 Based in Kenya | Open to remote and hybrid opportunities
@@ -16,7 +14,7 @@ Hello there👋! I'm **Sherry!**
 
 ---
 
-## 🚀 Tools & Technologies
+### Tools & Technologies
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
@@ -33,7 +31,7 @@ Hello there👋! I'm **Sherry!**
 
 ---
 
-## 📫 How to Reach Me
+### Ping Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/sherryobuhuma/)
 
 ---
