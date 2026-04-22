@@ -1,17 +1,15 @@
-## 👋Hello! I am Sherry Obuhuma
+## 👋Hello, This is Sherry!
 
+<!--
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=2000&color=00D9FF&center=true&vCenter=true&width=940&lines=DevOps+Engineer;Cloud+Engineer;System+Administrator" alt="Typing SVG" />
 </div>
-
+-->
 ### About Me
 
 <img align="right" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300"/>
 
-- Based in Kenya | Open to remote & hybrid opportunities
-- Passionate about automation, Infrastructure as Code (IaC), and cloud-native technologies
-- Am actively upskilling so as to stay relevant in this dynamic tech industry!
-
+- somewhere in the rabbit hole where AI meets hardware. send help.
 ---
 
 ### Technology Stack
