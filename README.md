@@ -28,7 +28,7 @@
 
 ---
 
-### Ping Me
+### Let's Ping...
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/sherryobuhuma/)
 
 ---
