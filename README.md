@@ -5,14 +5,14 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=2000&color=00D9FF&center=true&vCenter=true&width=940&lines=DevOps+Engineer;Cloud+Engineer;System+Administrator" alt="Typing SVG" />
 </div>
 -->
-### About Me
+### Status
 
 <img align="right" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300"/>
 
 - somewhere in the rabbit hole where AI meets hardware. send help.
 ---
 
-### Technology Stack
+### Technologies
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
