@@ -9,7 +9,7 @@
 
 <img align="right" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300"/>
 
-- somewhere in the rabbit hole where AI meets hardware. send help.
+- currently down a rabbit hole where AI meets hardware...Intriguing! Messy! Ecstatic!
 ---
 
 ### Technologies
