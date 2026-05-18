@@ -9,7 +9,7 @@
 
 <img align="right" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300"/>
 
-- currently down a rabbit hole where AI meets hardware...Intriguing! Messy! Exciting!
+- I'm currently hands-on with embedded systems and edge AI... it is Intriguing, Messy & Exciting!
 ---
 
 ### Technologies
