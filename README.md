@@ -9,7 +9,7 @@
 
 <img align="right" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300"/>
 
-- Am currently working in FinTech role and being hands-on with Embedded Systems & Edge AI so that I can Afford a German Machine... it is Fun, Intriguing, Messy & Exciting!
+- Am currently working in a FinTech role and being hands-on with Embedded Systems & Edge AI so that I can Afford a German Machine... it is Fun, Intriguing, Messy & Exciting!
 ---
 
 ### Technologies
