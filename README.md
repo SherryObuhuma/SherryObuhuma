@@ -1,34 +1,29 @@
-## 👋Hello, This is Sherry!
+## Hi, this is Sherry.
 
 <!--
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=2000&color=00D9FF&center=true&vCenter=true&width=940&lines=DevOps+Engineer;Cloud+Engineer;System+Administrator" alt="Typing SVG" />
 </div>
 -->
-### Status
+### Software Developer 
 
 <img align="right" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300"/>
 
-- Am currently working in a FinTech role, and being hands-on with Automations, Embedded Systems & Edge AI, so that I can Afford a German Machine... 
+I have a background in **DevOps** and **Cloud** but am currently transitioning into **Software Development**. Well, that's what my JD says!
+
+It is a good switch, I'm genuinely enjoying it & my frontend journey has started with **Next.js**.
+
+Side note: am working in FinTech so that I can eventually afford a **German machine** like my friends...apparently that's the only way they will let me test drive theirs 🙄
+
 ---
 
-### Technologies
+### Technologies & Tools
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326ce5?style=for-the-badge&logo=kubernetes)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Microsoft 365](https://img.shields.io/badge/Microsoft365-D83B01?style=for-the-badge&logo=microsoft&logoColor=white)
-![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-012456?style=for-the-badge&logo=powershell&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![Active Directory](https://img.shields.io/badge/Active%20Directory-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+| **Frontend** | Next.js | **DevOps** | Docker, CI/CD pipelines, Terraform, Jenkins | **Cloud** | AWS, Google Cloud Platform (GCP) | **Editor & Tools** | Vim, Git, GitHub, Postman |
 
 ---
 
 ### Let's Ping...
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/sherryobuhuma/)
+- **LinkedIn:** [Sherry Obuhuma](https://www.linkedin.com/in/sherryobuhuma/)
 
 ---
