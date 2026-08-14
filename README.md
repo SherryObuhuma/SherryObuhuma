@@ -11,9 +11,9 @@
 
 I have a background in **DevOps** and **Cloud** but am currently transitioning into **Software Development**. Well, that's what my JD says!
 
-It is a good switch, I'm genuinely enjoying it & my frontend journey has started with **Next.js**.
+It is a good switch, I'm genuinely enjoying it & am currently hands-on with **Next.js**.
 
-Side note: am working in FinTech so that I can eventually afford a **German machine** like my friends...apparently that's the only way they will let me test drive theirs 🙄
+Side note: am working in FinTech so that I can afford a **german machine** like my friends because that's the only way they will let me test drive theirs 🙄
 
 ---
 
