@@ -11,15 +11,15 @@
 
 I have a background in **DevOps** and **Cloud** but am currently transitioning into **Software Development**. Well, that's what my JD says!
 
-It is a good switch, I'm genuinely enjoying it & am currently hands-on with **Next.js**.
+It is a good switch & am currently hands-on with **Next.js**.
 
-Side note: am working in FinTech so that I can afford a **german machine** like my friends because that's the only way they will let me test drive theirs 🙄
+Side note: am working in FinTech so that I can afford a **german machine** like my friends, because that's the only way they will let me test drive theirs 🙄
 
 ---
 
 ### Technologies & Tools
 
-| **Frontend** | Next.js | **DevOps** | Docker, CI/CD pipelines, Terraform, Jenkins | **Cloud** | AWS, Google Cloud Platform (GCP) | **Editor & Tools** | Vim, Git, GitHub, Postman |
+| **Frontend** | Next.js | **DevOps** | Docker, CI/CD pipelines, Terraform, Jenkins | **Cloud** | AWS, Azure, Google Cloud Platform (GCP) | **Editor & Tools** | Vim, Git, GitHub, Postman |
 
 ---
 
