@@ -15,7 +15,7 @@ Side note: am working in FinTech so that I can afford a **german machine** like 
 
 ### Technologies & Tools
 
-| **DevOps** | Docker, CI/CD pipelines, Terraform, Jenkins | **Cloud** | AWS, Azure, Google Cloud Platform (GCP) | **Editor & Tools** | Vim, Git, GitHub, Postman |
+| **DevOps** | Docker, Terraform, Jenkins | **Cloud** | AWS, Azure, Google Cloud Platform (GCP) | **Editor & Tools** | Vim, Git, GitHub |
 
 ---
 
