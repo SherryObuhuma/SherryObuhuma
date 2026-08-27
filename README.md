@@ -5,8 +5,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=2000&color=00D9FF&center=true&vCenter=true&width=940&lines=DevOps+Engineer;Cloud+Engineer;System+Administrator" alt="Typing SVG" />
 </div>
 -->
-### Software Developer 
-
 <img align="right" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300"/>
 
 I have a background in **DevOps** and **Cloud** but am currently transitioning into **Software Development**. Well, that's what my JD says!
