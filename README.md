@@ -9,7 +9,7 @@
 
 I have a background in **DevOps** and **Cloud** but am currently transitioning into **Software Development**. Well, that's what my JD says!
 
-Side note: _am working in Tech so that I can afford a **german machine** like my friends, because that's the only way they will let me test drive theirs 🙄_
+Side note: _am working in Tech so that I can afford a **german machine** like my friends, because that's the only way they will let me test drive theirs_🙄
 
 ---
 
